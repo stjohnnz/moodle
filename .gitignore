@@ -45,3 +45,4 @@ composer.phar
 atlassian-ide-plugin.xml
 /node_modules/
 /.vs/slnx.sqlite
+/.vs
